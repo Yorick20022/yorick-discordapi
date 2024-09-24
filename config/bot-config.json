@@ -1,6 +1,6 @@
 {
     "data": {
-        "TOKEN": "Bot TOKEN HERE",
+        "TOKEN": "Bot TOKEN_HERE",
         "guildId": "YOUR ID",
         "apiVersion": "v10"
     }
